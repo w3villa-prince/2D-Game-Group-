@@ -146,10 +146,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 428ffd038e1ee76499622dc5812adbb0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
+  moveSpeed: 0.009
   boundY: 6
   movingPlatformLeft: 0
   movingPlatformRight: 0
   isBreakable: 0
   isSpike: 0
   isPlatform: 1
+  gamePlay: 1
